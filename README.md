@@ -1,6 +1,7 @@
 # ESP32_mini_8Port_WLED
 PCB and KiCad-Files
 <br>
+
 ### WLED-Board for ESP23 mini
 
 <img src="/images/ESP32_mini_8Port_WLED_top.png" width="400px"><br>
@@ -11,6 +12,7 @@ PCB and KiCad-Files
 <li>included used Library Files where not in official KiCad-Library for KiCad 7</li>
   </ul>
 <br>
+
 ### KiCad Symbol Librarys
 
 <ul>
@@ -22,6 +24,7 @@ PCB and KiCad-Files
 <li>wemos_mini:WeMos_D1_mini</li>
   </ul>
 <br> 
+
 ### KiCad Footprints inkl. 3D-Models
 
 <ul>
@@ -62,18 +65,23 @@ PCB and KiCad-Files
 <br>
 
 ### WLED-Board for ESP23 mini in use
-Test<br>
+
+#### Test
+
 <img src="/images/IMG_20230531_165236.jpg" width="400px"><br>
 <br>
 
-### Connected
+#### Connected
+
 <img src="/images/IMG_20230601_200542.jpg" width="400px"><br>
 <br>
 
-### Matrix with 2048 WS2812 LEDs
+#### Matrix with 2048 WS2812 LEDs
+
 <img src="/images/IMG_20230601_200719.jpg" width="400px"><br>
 <br>
 
 ### ESP32_mini_8Port_WLED drived the Matrix
+
 <img src="/images/IMG_20230601_201008.jpg" width="400px"><br>
 <br>
