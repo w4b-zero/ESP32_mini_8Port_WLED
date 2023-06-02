@@ -1,5 +1,5 @@
 # ESP32_mini_8Port_WLED
-PCB and KiCad-Files
+PCB and KiCad-Files for a 8Port WLED ESP32_mini Board
 <br>
 
 ### WLED-Board for ESP23 mini
