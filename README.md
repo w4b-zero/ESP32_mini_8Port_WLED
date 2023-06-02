@@ -4,9 +4,11 @@ PCB and KiCad-Files
 ***WLED-Board for ESP23 mini***<br>
 <img src="/images/ESP32_mini_8Port_WLED_top.png" width="400px"><br>
 <br>
-- Gerber Files
-- KiCad 7 Project Files
-- included used Library Files where not in official KiCad-Library for KiCad 7
+<ul>
+<li>Gerber Files</li>
+<li>KiCad 7 Project Files</li>
+<li>included used Library Files where not in official KiCad-Library for KiCad 7</li>
+  </ul>
 <br>
 ***KiCad Symbol Librarys***<br>
 <ul>
