@@ -10,7 +10,7 @@ PCB and KiCad-Files
 <li>included used Library Files where not in official KiCad-Library for KiCad 7</li>
   </ul>
 <br>
-***KiCad Symbol Librarys***<br>
+### KiCad Symbol Librarys<br>
 <ul>
 <li>button:SW_PUSH-12mm</li>
 <li>button:SW_PUSH-12mm_roundKnob</li>
@@ -20,7 +20,7 @@ PCB and KiCad-Files
 <li>wemos_mini:WeMos_D1_mini</li>
   </ul>
 <br> 
-***KiCad Footprints inkl. 3D-Models***<br>
+### KiCad Footprints inkl. 3D-Models<br>
   <ul>
 <li>button:SW_PUSH-12mm</li>
 <li>button:SW_PUSH-12mm_roundKnob</li>
@@ -57,17 +57,17 @@ PCB and KiCad-Files
   <li>wemos-d1-mini:wemos-d1-mini-with-pin-header-and-connector</li>
   </ul>
 <br>
-***WLED-Board for ESP23 mini in use***<br>
+### WLED-Board for ESP23 mini in use<br>
 Test<br>
 <img src="/images/IMG_20230531_165236.jpg" width="400px"><br>
 <br>
-Connected<br>
+### Connected<br>
 <img src="/images/IMG_20230601_200542.jpg" width="400px"><br>
 <br>
-Matrix with 2048 WS2812 LEDs<br>
+### Matrix with 2048 WS2812 LEDs<br>
 <img src="/images/IMG_20230601_200719.jpg" width="400px"><br>
 <br>
-ESP32_mini_8Port_WLED drived the Matrix<br>
+### ESP32_mini_8Port_WLED drived the Matrix<br>
 <img src="/images/IMG_20230601_201008.jpg" width="400px"><br>
 <br>
 
