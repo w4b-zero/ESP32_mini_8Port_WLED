@@ -1,0 +1,49 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Vishay Semiconductors TSOP38238
+#
+DEF TSOP38238 U 0 40 Y Y 1 L N
+F0 "U" 0 300 50 H V L CNN 
+F1 "TSOP38238" 0 400 50 H V L CNN 
+F2 "Vishay_Semiconductors-TSOP38238-*" 0 500 50 H I L CNN 
+F3 "http://www.vishay.com/docs/82491/tsop382.pdf" 0 600 50 H I L CNN 
+F4 "Manufacturer URL" 0 700 50 H I L CNN "Component Link 1 Description"
+F5 "http://www.vishay.com/" 0 800 50 H I L CNN "Component Link 1 URL"
+F6 "Rev. 1.5, 07/2016" 0 900 50 H I L CNN "Datasheet Version"
+F7 "40 Ohm" 0 1000 50 H I L CNN "ESR"
+F8 "24 MHz" 0 1100 50 H I L CNN "Frequency"
+F9 "30ppm" 0 1200 50 H I L CNN "Frequency Tolerance"
+F10 "0.041 inch" 0 1300 50 H I L CNN "Height"
+F11 "0.197 inch" 0 1400 50 H I L CNN "Length"
+F12 "18 pF" 0 1500 50 H I L CNN "Load Capacitance"
+F13 "70degC" 0 1600 50 H I L CNN "Max Operating Temperature"
+F14 "-20degC" 0 1700 50 H I L CNN "Min Operating Temperature"
+F15 "Surface Mount" 0 1800 50 H I L CNN "Mount"
+F16 "3-Pin Through Hole Device, Body 5.00 x 4.80 mm, Pitch 2.54 mm" 0 1900 50 H I L CNN "Package Description"
+F17 "1000" 0 2000 50 H I L CNN "Package Quantity"
+F18 "Tape and Reel" 0 2100 50 H I L CNN "Packaging"
+F19 "4" 0 2200 50 H I L CNN "Pins"
+F20 "No SVHC" 0 2300 50 H I L CNN "REACH SVHC"
+F21 "true" 0 2400 50 H I L CNN "Ro HSCompliant"
+F22 "30ppm" 0 2500 50 H I L CNN "Tolerance"
+F23 "0.126 inch" 0 2600 50 H I L CNN "Width"
+F24 "1.8E-11 f" 0 2700 50 H I L CNN "capacitance"
+F25 "IC" 0 2800 50 H I L CNN "category"
+F26 "2128831" 0 2900 50 H I L CNN "ciiva ids"
+F27 "101aa24055813cb9" 0 3000 50 H I L CNN "library id"
+F28 "Vishay Semiconductors" 0 3100 50 H I L CNN "manufacturer"
+F29 "VISH-TSOP38238" 0 3200 50 H I L CNN "package"
+F30 "1473858183" 0 3300 50 H I L CNN "release date"
+F31 "40 Ohm" 0 3400 50 H I L CNN "resistance"
+F32 "8711E8E0-9FD6-48FB-8400-9E9D3C1123D6" 0 3500 50 H I L CNN "vault revision"
+F33 "yes" 0 3600 50 H I L CNN "imported"
+DRAW
+X OUT 1 800 100 100 L 40 40 1 1 W 
+X GND 2 800 0 100 L 40 40 1 1 W 
+X VS 3 0 0 100 R 40 40 1 1 W 
+S 100 200 700 -100 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library

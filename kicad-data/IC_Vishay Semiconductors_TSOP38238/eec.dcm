@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSOP38238
+D TSOP38238
+F http://www.vishay.com/docs/82491/tsop382.pdf
+$ENDCMP
+# end doc library
