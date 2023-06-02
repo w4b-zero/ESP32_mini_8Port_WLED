@@ -2,6 +2,7 @@
 PCB and KiCad-Files
 <br>
 ### WLED-Board for ESP23 mini
+
 <img src="/images/ESP32_mini_8Port_WLED_top.png" width="400px"><br>
 <br>
 <ul>
@@ -11,6 +12,7 @@ PCB and KiCad-Files
   </ul>
 <br>
 ### KiCad Symbol Librarys
+
 <ul>
 <li>button:SW_PUSH-12mm</li>
 <li>button:SW_PUSH-12mm_roundKnob</li>
@@ -21,7 +23,8 @@ PCB and KiCad-Files
   </ul>
 <br> 
 ### KiCad Footprints inkl. 3D-Models
-  <ul>
+
+<ul>
 <li>button:SW_PUSH-12mm</li>
 <li>button:SW_PUSH-12mm_roundKnob</li>
 <li>button:SW_PUSH-12mm_squareKnob</li>
@@ -57,17 +60,20 @@ PCB and KiCad-Files
   <li>wemos-d1-mini:wemos-d1-mini-with-pin-header-and-connector</li>
   </ul>
 <br>
+
 ### WLED-Board for ESP23 mini in use
 Test<br>
 <img src="/images/IMG_20230531_165236.jpg" width="400px"><br>
 <br>
+
 ### Connected
 <img src="/images/IMG_20230601_200542.jpg" width="400px"><br>
 <br>
+
 ### Matrix with 2048 WS2812 LEDs
 <img src="/images/IMG_20230601_200719.jpg" width="400px"><br>
 <br>
+
 ### ESP32_mini_8Port_WLED drived the Matrix
 <img src="/images/IMG_20230601_201008.jpg" width="400px"><br>
 <br>
-
