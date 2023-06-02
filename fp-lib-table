@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/button.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/eec.pretty")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/ESP32_mini.pretty")(options "")(descr ""))
+  (lib (name "logocircuit")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/logocircuit.pretty")(options "")(descr ""))
+  (lib (name "Terminal_dg306")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/Terminal_dg306.pretty")(options "")(descr ""))
+  (lib (name "wemos-d1-mini")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/wemos-d1-mini.pretty")(options "")(descr ""))
+  (lib (name "mounts")(type "KiCad")(uri "${KIPRJMOD}/kicad-data/mounts.pretty")(options "")(descr ""))
+)
