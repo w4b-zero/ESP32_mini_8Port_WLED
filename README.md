@@ -84,4 +84,22 @@ PCB and KiCad-Files for a 8Port WLED ESP32_mini Board
 ### ESP32_mini_8Port_WLED drived the Matrix
 
 <img src="/images/IMG_20230601_201008.jpg" width="400px"><br>
+Firmware: WLED https://kno.wled.ge/
+Leds: 2048 (256 to each port)
 <br>
+
+### Youtube Videos
+
+2048 WS2812b Led's. first test.<br>
+[![IMAGE_ALT](https://img.youtube.com/vi/6V0AxyubT9o/0.jpg)](https://www.youtube.com/watch?v=6V0AxyubT9o)
+
+2048 WS2812b Led's - capture the screen test.<br>
+[![IMAGE_ALT](https://img.youtube.com/vi/_0qXEe0vF80/0.jpg)](https://www.youtube.com/watch?v=_0qXEe0vF80)
+
+2048 WS2812b Led's - colorscroll<br>
+[![IMAGE_ALT](https://img.youtube.com/vi/-9pOgiMY1iY/0.jpg)](https://www.youtube.com/watch?v=-9pOgiMY1iY)
+
+Firmware: WLED https://kno.wled.ge/
+PC Software: Jinx! http://www.live-leds.de/
+Leds: 2048 (512 to each port)
+
