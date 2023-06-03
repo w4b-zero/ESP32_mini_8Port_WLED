@@ -99,7 +99,7 @@ Leds: 2048 (256 to each port)
 2048 WS2812b Led's - colorscroll<br>
 [![IMAGE_ALT](https://img.youtube.com/vi/-9pOgiMY1iY/0.jpg)](https://www.youtube.com/watch?v=-9pOgiMY1iY)
 
-Firmware: WLED https://kno.wled.ge/
-PC Software: Jinx! http://www.live-leds.de/
-Leds: 2048 (512 to each port)
+Firmware: WLED https://kno.wled.ge/ <br>
+PC Software: Jinx! http://www.live-leds.de/ <br>
+Leds: 2048 (512 to each port) <br>
 
