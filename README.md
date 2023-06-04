@@ -115,7 +115,7 @@ Leds: 2048 (512 to each port) <br>
 
 WLED Projectpage:  https://kno.wled.ge/ <br>
 
-Join the Discord server to discuss everything about WLED!<br>
+Join the WLED Discord server to discuss everything about WLED!<br>
 <a href="https://discord.gg/KuqP7NE"><img src="https://discordapp.com/api/guilds/473448917040758787/widget.png?style=banner2" width="25%"></a> <br>
 
 Check out the WLED [Discourse forum](https://wled.discourse.group)! <br> 
