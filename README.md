@@ -122,3 +122,4 @@ Check out the WLED [Discourse forum](https://wled.discourse.group)! <br>
 
 Firmware: WLED Sourcecode https://github.com/Aircoookie/WLED <br>
 
+PCB Manufacturing & Assembly: JLBPCB https://jlcpcb.com/
